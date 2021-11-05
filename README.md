@@ -1,2 +1,2 @@
 # Projet2
-créer une fonction qui permet de créer des groupes aléatoires
+créer d'une fonction qui permet de créer des groupes aléatoires
