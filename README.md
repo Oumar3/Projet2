@@ -1,2 +1,2 @@
 # projet2
-créer une interface graphique avec tkinter
+créer une interface graphique avec tkinter yves
